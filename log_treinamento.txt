@@ -1,0 +1,4 @@
+Treinamento 1: 12.4
+Treinamento 2: 11.9
+Treinamento 3: 13.2
+Treinamento 4: 12.8
